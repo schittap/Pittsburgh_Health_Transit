@@ -1,1 +1,1 @@
-A project which explores the socioeconomic link between public transit and health care in Pittsburgh, Pennsylvania
+A project which explores the socioeconomic link between public transit and healthcare in Pittsburgh, Pennsylvania
