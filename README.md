@@ -1,2 +1,1 @@
-# DC-Philadelphia-Investments
-Exploring the impacts of healthcare and public transportation in Washington, D.C. and Philadelphia, Pennsylvania.
+A project which explores the socioeconomic link between public transit and health care in Pittsburgh, Pennsylvania
