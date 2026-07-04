@@ -1,6 +1,7 @@
 A project which explores the socioeconomic link between public transit and healthcare in Pittsburgh, Pennsylvania
 
 **Datasets**
+
 *CDC/ATSDR Social Vulnerability Index Data:* https://svi.cdc.gov/dataDownloads/data-download.html
 
 *Pennsylvania Spatial Data Access 2025 Hospitals Data by Pennsylvania Department of Health:* https://pasda.psu.edu/uci/DataSummary.aspx?dataset=909
